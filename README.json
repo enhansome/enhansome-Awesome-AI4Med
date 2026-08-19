@@ -1,39 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "1. Medical LLMs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2. Medical MLLMs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3. Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.1 Text"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.2 Multimodal"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "4. Benchmarks"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T22:01:30.883Z",
+    "last_updated": "2026-08-19T12:06:33.661Z",
     "original_repository": "FreedomIntelligence/Awesome-AI4Med",
+    "original_repository_id": 221641068,
     "original_repository_sha": "62def4feb707cf4df9a3aeb2ffa4735c4a5cc5f2",
     "enhanced_repository": "enhansome/enhansome-Awesome-AI4Med",
     "enhanced_repository_description": null,
