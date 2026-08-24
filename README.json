@@ -1,7 +1,856 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (7B)][HF (13B)] [HF] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627261340,
+            "language": "Python",
+            "last_commit": "2024-12-16T20:21:17Z",
+            "owner": "FreedomIntelligence",
+            "repo": "HuatuoGPT",
+            "stars": 1321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (7B)][HF (34B)][HF (72B)] [HF] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 746621917,
+            "language": "Python",
+            "last_commit": "2024-10-15T03:37:06Z",
+            "owner": "FreedomIntelligence",
+            "repo": "Apollo",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (7B)][HF (13B)][HF (34B)] [HF (PT)][HF (SFT)] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 669535594,
+            "language": "Python",
+            "last_commit": "2024-08-30T18:09:25Z",
+            "owner": "FreedomIntelligence",
+            "repo": "HuatuoGPT-II",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (7B)][HF (8B)][HF (70B)] [HF] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 906833146,
+            "language": "Python",
+            "last_commit": "2025-01-20T02:31:13Z",
+            "owner": "FreedomIntelligence",
+            "repo": "HuatuoGPT-o1",
+            "stars": 1348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (8B)][HF (70B)] [HF] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 760485083,
+            "language": "Python",
+            "last_commit": "2025-05-09T05:45:33Z",
+            "owner": "MAGIC-AI4Med",
+            "repo": "MMedLM",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[HF",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219476337,
+            "language": "Python",
+            "last_commit": "2024-04-26T20:45:42Z",
+            "owner": "allenai",
+            "repo": "s2orc",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Github",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 632335292,
+            "language": "Python",
+            "last_commit": "2024-07-08T12:45:23Z",
+            "owner": "chaoyi-wu",
+            "repo": "PMC-LLaMA",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (8B)][HF (70B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 702536105,
+            "language": null,
+            "last_commit": "2023-10-12T14:53:35Z",
+            "owner": "m42-health",
+            "repo": "med42",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (8B)][HF (70B)] [HF] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 792217423,
+            "language": "Python",
+            "last_commit": "2024-09-26T15:44:51Z",
+            "owner": "TsinghuaC3I",
+            "repo": "UltraMedical",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (7B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 757417528,
+            "language": "Python",
+            "last_commit": "2024-06-20T18:08:13Z",
+            "owner": "BioMistral",
+            "repo": "BioMistral",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (7B)][HF (70B)] [HF] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 722687885,
+            "language": "Python",
+            "last_commit": "2024-04-10T11:48:37Z",
+            "owner": "epfLLM",
+            "repo": "meditron",
+            "stars": 2207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (32B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1035824348,
+            "language": null,
+            "last_commit": "2025-09-03T11:17:25Z",
+            "owner": "baichuan-inc",
+            "repo": "Baichuan-M2-32B",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (14B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 921040832,
+            "language": null,
+            "last_commit": "2025-02-20T04:03:40Z",
+            "owner": "baichuan-inc",
+            "repo": "Baichuan-M1-14B",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Github",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 620345178,
+            "language": "Python",
+            "last_commit": "2023-09-07T12:38:17Z",
+            "owner": "kbressem",
+            "repo": "medAlpaca",
+            "stars": 565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Github",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 620345178,
+            "language": "Python",
+            "last_commit": "2023-09-07T12:38:17Z",
+            "owner": "kbressem",
+            "repo": "medAlpaca",
+            "stars": 565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (13B)] [Github] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 673757763,
+            "language": "Python",
+            "last_commit": "2025-07-25T04:41:59Z",
+            "owner": "chaoyi-wu",
+            "repo": "RadFM",
+            "stars": 565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (8B)] [HF] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 958321496,
+            "language": "Python",
+            "last_commit": "2025-06-19T18:39:55Z",
+            "owner": "UCSC-VLAA",
+            "repo": "MedReason",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (7B)][HF (32B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1057695640,
+            "language": null,
+            "last_commit": "2025-09-29T05:41:20Z",
+            "owner": "UbiquantAI",
+            "repo": "Fleming-R1",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (27B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 975789283,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-19T17:29:02Z",
+            "owner": "Google-Health",
+            "repo": "medgemma",
+            "stars": 1572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "- [HF (100B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1119452297,
+            "language": null,
+            "last_commit": "2026-06-22T06:04:37Z",
+            "owner": "MedAIBase",
+            "repo": "AntAngelMed",
+            "stars": 218
+          }
+        }
+      ],
+      "title": "1. Medical LLMs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (7B)][HF 34B] [HF] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 819886293,
+            "language": "Python",
+            "last_commit": "2025-04-23T15:59:50Z",
+            "owner": "FreedomIntelligence",
+            "repo": "HuatuoGPT-Vision",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (7B)][HF (32B)] [HF (PT)][HF (SFT)] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1040106198,
+            "language": null,
+            "last_commit": "2025-11-13T11:09:21Z",
+            "owner": "FreedomIntelligence",
+            "repo": "ShizhenGPT",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Github",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 643298473,
+            "language": "Python",
+            "last_commit": "2025-06-04T15:56:12Z",
+            "owner": "microsoft",
+            "repo": "LLaVA-Med",
+            "stars": 2229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Github",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 643298473,
+            "language": "Python",
+            "last_commit": "2025-06-04T15:56:12Z",
+            "owner": "microsoft",
+            "repo": "LLaVA-Med",
+            "stars": 2229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Github",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 643298473,
+            "language": "Python",
+            "last_commit": "2025-06-04T15:56:12Z",
+            "owner": "microsoft",
+            "repo": "LLaVA-Med",
+            "stars": 2229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Github",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 833175774,
+            "language": "Python",
+            "last_commit": "2025-10-23T20:50:38Z",
+            "owner": "mbzuai-oryx",
+            "repo": "BiMediX2",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (4B)][HF (7B)][HF (14B)][HF (32B)] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1071943241,
+            "language": "Python",
+            "last_commit": "2026-06-16T09:37:48Z",
+            "owner": "ZJUI-AI4H",
+            "repo": "Hulu-Med",
+            "stars": 1032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (3.8B)] [HF] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 934009853,
+            "language": "Python",
+            "last_commit": "2026-07-31T23:27:29Z",
+            "owner": "ZJU4HealthCare",
+            "repo": "HealthGPT",
+            "stars": 1652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (7B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 606263696,
+            "language": "Python",
+            "last_commit": "2023-08-23T18:03:37Z",
+            "owner": "snap-stanford",
+            "repo": "med-flamingo",
+            "stars": 454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (4B)][HF (27B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 975789283,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-19T17:29:02Z",
+            "owner": "Google-Health",
+            "repo": "medgemma",
+            "stars": 1572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (2B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 952310267,
+            "language": "Python",
+            "last_commit": "2025-07-07T21:39:31Z",
+            "owner": "Yuxiang-Lai117",
+            "repo": "Med-R1",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Github",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639546287,
+            "language": "Python",
+            "last_commit": "2025-07-08T02:18:26Z",
+            "owner": "taokz",
+            "repo": "BiomedGPT",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Github",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639546287,
+            "language": "Python",
+            "last_commit": "2025-07-08T02:18:26Z",
+            "owner": "taokz",
+            "repo": "BiomedGPT",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (2B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1011271836,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-17T16:23:55Z",
+            "owner": "JZPeterPan",
+            "repo": "MedVLM-R1",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (14B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1074379128,
+            "language": "Python",
+            "last_commit": "2026-07-30T09:39:10Z",
+            "owner": "uni-medical",
+            "repo": "UniMedVL",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (2B)][HF (8B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 997923153,
+            "language": "Python",
+            "last_commit": "2025-10-23T04:20:18Z",
+            "owner": "manglu097",
+            "repo": "Chiron-o1",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[HF",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 747552922,
+            "language": "Python",
+            "last_commit": "2026-04-22T17:22:02Z",
+            "owner": "Vision-CAIR",
+            "repo": "MiniGPT-Med",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Github",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 747552922,
+            "language": "Python",
+            "last_commit": "2026-04-22T17:22:02Z",
+            "owner": "Vision-CAIR",
+            "repo": "MiniGPT-Med",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Github",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 747552922,
+            "language": "Python",
+            "last_commit": "2026-04-22T17:22:02Z",
+            "owner": "Vision-CAIR",
+            "repo": "MiniGPT-Med",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (8B)][HF (38B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1085726892,
+            "language": null,
+            "last_commit": "2025-11-06T03:55:30Z",
+            "owner": "UbiquantAI",
+            "repo": "Fleming-VL",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (3B)][HF (8B)][HF (13B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 852098024,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-22T18:03:27Z",
+            "owner": "Project-MONAI",
+            "repo": "VLM-Radiology-Agent-Framework",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[Blog] [HF (4B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 975789283,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-19T17:29:02Z",
+            "owner": "Google-Health",
+            "repo": "medgemma",
+            "stars": 1572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (2B)][HF (8B)][HF (30B)] [HF] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1161177194,
+            "language": "Python",
+            "last_commit": "2026-03-15T14:00:06Z",
+            "owner": "mbzuai-oryx",
+            "repo": "MediX-R1",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (4B)][HF (8B)][HF (8B-Next)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1151487598,
+            "language": "Python",
+            "last_commit": "2026-04-08T14:16:13Z",
+            "owner": "genmilab",
+            "repo": "MedMO",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (7B)][HF (32B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 984513301,
+            "language": "Python",
+            "last_commit": "2025-07-31T12:35:04Z",
+            "owner": "DDVD233",
+            "repo": "QoQ_Med",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (3B/7B/32B)] [HF] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1030946420,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-21T06:19:11Z",
+            "owner": "UCSC-VLAA",
+            "repo": "MedVLThinker",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (8B)] [HF] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1061727449,
+            "language": "Python",
+            "last_commit": "2025-09-26T07:11:39Z",
+            "owner": "jdh-algo",
+            "repo": "Citrus-V",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[arXiv] [HF (8B)][HF (32B)] - [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1171500666,
+            "language": "Python",
+            "last_commit": "2026-08-16T06:12:11Z",
+            "owner": "alibaba-damo-academy",
+            "repo": "ClinFusion",
+            "stars": 206
+          }
+        }
+      ],
+      "title": "2. Medical MLLMs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "[arXiv] [Github] 26,000,000",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 635374839,
+                "language": null,
+                "last_commit": "2024-03-14T04:54:23Z",
+                "owner": "FreedomIntelligence",
+                "repo": "Huatuo-26M",
+                "stars": 345
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3.1 Text"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "[arXiv] [Github] 21,000,000",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 983174225,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-06-24T09:06:21Z",
+                "owner": "JiarunLiu",
+                "repo": "BioVFM",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Report",
+              "description": "[Report] [HF] 1,000+ open-access medical image datasets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1061514407,
+                "language": "Python",
+                "last_commit": "2026-04-03T09:28:46Z",
+                "owner": "uni-medical",
+                "repo": "Project-Imaging-X",
+                "stars": 477
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3.2 Multimodal"
+        }
+      ],
+      "title": "3. Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[Github] （1）Multimodal：：, , , , , , , , , , , ；（2）Text-only：：, , , , , , , , , , , ；",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 999941701,
+            "language": "Python",
+            "last_commit": "2026-02-24T02:40:45Z",
+            "owner": "alibaba-damo-academy",
+            "repo": "MedEvalKit",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[Github] -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1155176016,
+            "language": "Python",
+            "last_commit": "2026-02-27T12:35:48Z",
+            "owner": "AQ-MedAI",
+            "repo": "LiveClin",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "[Github] , , , ,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1121474331,
+            "language": "Python",
+            "last_commit": "2026-07-24T21:36:37Z",
+            "owner": "medicalsphere",
+            "repo": "HealthBench",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "4. Benchmarks"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T22:01:15.676Z",
+    "last_updated": "2026-08-24T14:00:44.133Z",
     "original_repository": "FreedomIntelligence/Awesome-AI4Med",
     "original_repository_id": 221641068,
     "original_repository_sha": "62def4feb707cf4df9a3aeb2ffa4735c4a5cc5f2",
