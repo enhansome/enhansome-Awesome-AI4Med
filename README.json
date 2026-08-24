@@ -15,7 +15,7 @@
             "last_commit": "2024-12-16T20:21:17Z",
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1321
+            "stars": 1322
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-08-30T18:09:25Z",
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-II",
-            "stars": 413
+            "stars": 414
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-01-20T02:31:13Z",
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-o1",
-            "stars": 1348
+            "stars": 1349
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-06-19T17:29:02Z",
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1572
+            "stars": 1573
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2025-04-23T15:59:50Z",
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-Vision",
-            "stars": 399
+            "stars": 400
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2025-06-04T15:56:12Z",
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2229
+            "stars": 2230
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2025-06-04T15:56:12Z",
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2229
+            "stars": 2230
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2025-06-04T15:56:12Z",
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2229
+            "stars": 2230
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-07-31T23:27:29Z",
             "owner": "ZJU4HealthCare",
             "repo": "HealthGPT",
-            "stars": 1652
+            "stars": 1653
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-06-19T17:29:02Z",
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1572
+            "stars": 1573
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2025-07-08T02:18:26Z",
             "owner": "taokz",
             "repo": "BiomedGPT",
-            "stars": 709
+            "stars": 710
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2025-07-08T02:18:26Z",
             "owner": "taokz",
             "repo": "BiomedGPT",
-            "stars": 709
+            "stars": 710
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-06-19T17:29:02Z",
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1572
+            "stars": 1573
           }
         },
         {
@@ -850,7 +850,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:44.133Z",
+    "last_updated": "2026-08-24T22:09:44.411Z",
     "original_repository": "FreedomIntelligence/Awesome-AI4Med",
     "original_repository_id": 221641068,
     "original_repository_sha": "62def4feb707cf4df9a3aeb2ffa4735c4a5cc5f2",
