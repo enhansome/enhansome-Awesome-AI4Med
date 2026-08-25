@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "HuatuoGPT",
           "description": "[arXiv] [HF (7B)][HF (13B)] [HF] [Github]",
           "children": [],
           "repo_info": {
@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "Apollo",
           "description": "[arXiv] [HF (7B)][HF (34B)][HF (72B)] [HF] [Github]",
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "HuatuoGPT-II",
           "description": "[arXiv] [HF (7B)][HF (13B)][HF (34B)] [HF (PT)][HF (SFT)] [Github]",
           "children": [],
           "repo_info": {
@@ -50,7 +50,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "HuatuoGPT-o1",
           "description": "[arXiv] [HF (7B)][HF (8B)][HF (70B)] [HF] [Github]",
           "children": [],
           "repo_info": {
@@ -65,7 +65,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "MMedLM",
           "description": "[arXiv] [HF (8B)][HF (70B)] [HF] [Github]",
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Github",
+          "title": "chaoyi-wu/PMC-LLaMA",
           "description": "]",
           "children": [],
           "repo_info": {
@@ -110,7 +110,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "med42",
           "description": "[arXiv] [HF (8B)][HF (70B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -125,7 +125,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "UltraMedical",
           "description": "[arXiv] [HF (8B)][HF (70B)] [HF] [Github]",
           "children": [],
           "repo_info": {
@@ -140,7 +140,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "BioMistral",
           "description": "[arXiv] [HF (7B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -155,7 +155,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "meditron",
           "description": "[arXiv] [HF (7B)][HF (70B)] [HF] [Github]",
           "children": [],
           "repo_info": {
@@ -165,12 +165,12 @@
             "last_commit": "2024-04-10T11:48:37Z",
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2207
+            "stars": 2208
           }
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "Baichuan-M2-32B",
           "description": "[arXiv] [HF (32B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -185,7 +185,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "Baichuan-M1-14B",
           "description": "[arXiv] [HF (14B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -200,7 +200,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Github",
+          "title": "kbressem/medAlpaca",
           "description": "]",
           "children": [],
           "repo_info": {
@@ -215,7 +215,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Github",
+          "title": "kbressem/medAlpaca",
           "description": "]",
           "children": [],
           "repo_info": {
@@ -230,7 +230,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "RadFM",
           "description": "[arXiv] [HF (13B)] [Github] [Github]",
           "children": [],
           "repo_info": {
@@ -245,7 +245,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "MedReason",
           "description": "[arXiv] [HF (8B)] [HF] [Github]",
           "children": [],
           "repo_info": {
@@ -260,7 +260,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "Fleming-R1",
           "description": "[arXiv] [HF (7B)][HF (32B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -275,7 +275,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "medgemma",
           "description": "[arXiv] [HF (27B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -290,7 +290,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "AntAngelMed",
           "description": "- [HF (100B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -311,7 +311,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "HuatuoGPT-Vision",
           "description": "[arXiv] [HF (7B)][HF 34B] [HF] [Github]",
           "children": [],
           "repo_info": {
@@ -326,7 +326,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "ShizhenGPT",
           "description": "[arXiv] [HF (7B)][HF (32B)] [HF (PT)][HF (SFT)] [Github]",
           "children": [],
           "repo_info": {
@@ -341,7 +341,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Github",
+          "title": "microsoft/LLaVA-Med",
           "description": "]",
           "children": [],
           "repo_info": {
@@ -356,7 +356,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Github",
+          "title": "microsoft/LLaVA-Med",
           "description": "]",
           "children": [],
           "repo_info": {
@@ -371,7 +371,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Github",
+          "title": "microsoft/LLaVA-Med",
           "description": "]",
           "children": [],
           "repo_info": {
@@ -386,7 +386,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Github",
+          "title": "mbzuai-oryx/BiMediX2",
           "description": "]",
           "children": [],
           "repo_info": {
@@ -401,8 +401,8 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
-          "description": "[arXiv] [HF (4B)][HF (7B)][HF (14B)][HF (32B)] [Github]",
+          "title": "Hulu-Med",
+          "description": "[arXiv] [HF (4B)][HF (7B)][HF (14B)][HF (32B)]  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -416,7 +416,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "HealthGPT",
           "description": "[arXiv] [HF (3.8B)] [HF] [Github]",
           "children": [],
           "repo_info": {
@@ -431,7 +431,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "med-flamingo",
           "description": "[arXiv] [HF (7B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -446,7 +446,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "medgemma",
           "description": "[arXiv] [HF (4B)][HF (27B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -461,7 +461,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "Med-R1",
           "description": "[arXiv] [HF (2B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -476,7 +476,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Github",
+          "title": "taokz/BiomedGPT",
           "description": "]",
           "children": [],
           "repo_info": {
@@ -491,7 +491,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Github",
+          "title": "taokz/BiomedGPT",
           "description": "]",
           "children": [],
           "repo_info": {
@@ -506,7 +506,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "MedVLM-R1",
           "description": "[arXiv] [HF (2B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -521,7 +521,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "UniMedVL",
           "description": "[arXiv] [HF (14B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -531,12 +531,12 @@
             "last_commit": "2026-07-30T09:39:10Z",
             "owner": "uni-medical",
             "repo": "UniMedVL",
-            "stars": 102
+            "stars": 103
           }
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "Chiron-o1",
           "description": "[arXiv] [HF (2B)][HF (8B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -566,7 +566,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Github",
+          "title": "Vision-CAIR/MiniGPT-Med",
           "description": "]",
           "children": [],
           "repo_info": {
@@ -581,7 +581,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Github",
+          "title": "Vision-CAIR/MiniGPT-Med",
           "description": "]",
           "children": [],
           "repo_info": {
@@ -596,7 +596,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "Fleming-VL",
           "description": "[arXiv] [HF (8B)][HF (38B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -611,7 +611,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "VLM-Radiology-Agent-Framework",
           "description": "[arXiv] [HF (3B)][HF (8B)][HF (13B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -626,7 +626,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "medgemma",
           "description": "[Blog] [HF (4B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -641,7 +641,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "MediX-R1",
           "description": "[arXiv] [HF (2B)][HF (8B)][HF (30B)] [HF] [Github]",
           "children": [],
           "repo_info": {
@@ -656,7 +656,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "MedMO",
           "description": "[arXiv] [HF (4B)][HF (8B)][HF (8B-Next)] - [Github]",
           "children": [],
           "repo_info": {
@@ -671,7 +671,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "QoQ_Med",
           "description": "[arXiv] [HF (7B)][HF (32B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -686,7 +686,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "MedVLThinker",
           "description": "[arXiv] [HF (3B/7B/32B)] [HF] [Github]",
           "children": [],
           "repo_info": {
@@ -701,7 +701,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "Citrus-V",
           "description": "[arXiv] [HF (8B)] [HF] [Github]",
           "children": [],
           "repo_info": {
@@ -716,7 +716,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "ClinFusion",
           "description": "[arXiv] [HF (8B)][HF (32B)] - [Github]",
           "children": [],
           "repo_info": {
@@ -739,7 +739,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "Huatuo-26M",
               "description": "[arXiv] [Github] 26,000,000",
               "children": [],
               "repo_info": {
@@ -761,7 +761,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "BioVFM",
               "description": "[arXiv] [Github] 21,000,000",
               "children": [],
               "repo_info": {
@@ -802,7 +802,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "MedEvalKit",
           "description": "[Github] （1）Multimodal：：, , , , , , , , , , , ；（2）Text-only：：, , , , , , , , , , , ；",
           "children": [],
           "repo_info": {
@@ -817,7 +817,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "LiveClin",
           "description": "[Github] -",
           "children": [],
           "repo_info": {
@@ -832,7 +832,7 @@
         },
         {
           "node_type": "item",
-          "title": "Github",
+          "title": "HealthBench",
           "description": "[Github] , , , ,",
           "children": [],
           "repo_info": {
@@ -850,7 +850,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:09:44.411Z",
+    "last_updated": "2026-08-25T05:54:32.576Z",
     "original_repository": "FreedomIntelligence/Awesome-AI4Med",
     "original_repository_id": 221641068,
     "original_repository_sha": "62def4feb707cf4df9a3aeb2ffa4735c4a5cc5f2",
