@@ -285,7 +285,7 @@
             "last_commit": "2026-06-19T17:29:02Z",
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1573
+            "stars": 1574
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2025-11-13T11:09:21Z",
             "owner": "FreedomIntelligence",
             "repo": "ShizhenGPT",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-06-16T09:37:48Z",
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
-            "stars": 1032
+            "stars": 1033
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-07-31T23:27:29Z",
             "owner": "ZJU4HealthCare",
             "repo": "HealthGPT",
-            "stars": 1653
+            "stars": 1654
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-06-19T17:29:02Z",
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1573
+            "stars": 1574
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-04-22T17:22:02Z",
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-Med",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2026-04-22T17:22:02Z",
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-Med",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-04-22T17:22:02Z",
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-Med",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-06-19T17:29:02Z",
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1573
+            "stars": 1574
           }
         },
         {
@@ -749,7 +749,7 @@
                 "last_commit": "2024-03-14T04:54:23Z",
                 "owner": "FreedomIntelligence",
                 "repo": "Huatuo-26M",
-                "stars": 345
+                "stars": 346
               }
             }
           ],
@@ -850,7 +850,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:08:05.603Z",
+    "last_updated": "2026-08-27T02:14:31.668Z",
     "original_repository": "FreedomIntelligence/Awesome-AI4Med",
     "original_repository_id": 221641068,
     "original_repository_sha": "62def4feb707cf4df9a3aeb2ffa4735c4a5cc5f2",
