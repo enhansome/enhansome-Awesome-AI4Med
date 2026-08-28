@@ -16,7 +16,8 @@
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
             "stars": 1322
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "FreedomIntelligence",
             "repo": "Apollo",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-II",
             "stars": 414
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2025-01-20T02:31:13Z",
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-o1",
-            "stars": 1351
-          }
+            "stars": 1352
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "MAGIC-AI4Med",
             "repo": "MMedLM",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "allenai",
             "repo": "s2orc",
             "stars": 1082
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "chaoyi-wu",
             "repo": "PMC-LLaMA",
             "stars": 680
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "m42-health",
             "repo": "med42",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "TsinghuaC3I",
             "repo": "UltraMedical",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "BioMistral",
             "repo": "BioMistral",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "epfLLM",
             "repo": "meditron",
             "stars": 2208
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "baichuan-inc",
             "repo": "Baichuan-M2-32B",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "baichuan-inc",
             "repo": "Baichuan-M1-14B",
             "stars": 217
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "kbressem",
             "repo": "medAlpaca",
             "stars": 564
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "kbressem",
             "repo": "medAlpaca",
             "stars": 564
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "chaoyi-wu",
             "repo": "RadFM",
             "stars": 564
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "UCSC-VLAA",
             "repo": "MedReason",
             "stars": 283
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "UbiquantAI",
             "repo": "Fleming-R1",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "Google-Health",
             "repo": "medgemma",
             "stars": 1574
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "MedAIBase",
             "repo": "AntAngelMed",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         }
       ],
       "title": "1. Medical LLMs"
@@ -322,7 +342,8 @@
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-Vision",
             "stars": 400
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "FreedomIntelligence",
             "repo": "ShizhenGPT",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "microsoft",
             "repo": "LLaVA-Med",
             "stars": 2231
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "microsoft",
             "repo": "LLaVA-Med",
             "stars": 2231
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "microsoft",
             "repo": "LLaVA-Med",
             "stars": 2231
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "mbzuai-oryx",
             "repo": "BiMediX2",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
             "stars": 1033
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "ZJU4HealthCare",
             "repo": "HealthGPT",
             "stars": 1654
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "snap-stanford",
             "repo": "med-flamingo",
             "stars": 453
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "Google-Health",
             "repo": "medgemma",
             "stars": 1574
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "Yuxiang-Lai117",
             "repo": "Med-R1",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "taokz",
             "repo": "BiomedGPT",
             "stars": 710
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "taokz",
             "repo": "BiomedGPT",
             "stars": 710
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "JZPeterPan",
             "repo": "MedVLM-R1",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "uni-medical",
             "repo": "UniMedVL",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "manglu097",
             "repo": "Chiron-o1",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-Med",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-Med",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-Med",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "UbiquantAI",
             "repo": "Fleming-VL",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "Project-MONAI",
             "repo": "VLM-Radiology-Agent-Framework",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -637,7 +678,8 @@
             "owner": "Google-Health",
             "repo": "medgemma",
             "stars": 1574
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -652,7 +694,8 @@
             "owner": "mbzuai-oryx",
             "repo": "MediX-R1",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -667,7 +710,8 @@
             "owner": "genmilab",
             "repo": "MedMO",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -682,7 +726,8 @@
             "owner": "DDVD233",
             "repo": "QoQ_Med",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -697,7 +742,8 @@
             "owner": "UCSC-VLAA",
             "repo": "MedVLThinker",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -712,7 +758,8 @@
             "owner": "jdh-algo",
             "repo": "Citrus-V",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -727,7 +774,8 @@
             "owner": "alibaba-damo-academy",
             "repo": "ClinFusion",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         }
       ],
       "title": "2. Medical MLLMs"
@@ -750,7 +798,8 @@
                 "owner": "FreedomIntelligence",
                 "repo": "Huatuo-26M",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-28T05:50:18.129Z"
             }
           ],
           "description": null,
@@ -772,7 +821,8 @@
                 "owner": "JiarunLiu",
                 "repo": "BioVFM",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T05:50:18.129Z"
             },
             {
               "node_type": "item",
@@ -787,7 +837,8 @@
                 "owner": "uni-medical",
                 "repo": "Project-Imaging-X",
                 "stars": 477
-              }
+              },
+              "first_seen": "2026-08-28T05:50:18.129Z"
             }
           ],
           "description": null,
@@ -813,7 +864,8 @@
             "owner": "alibaba-damo-academy",
             "repo": "MedEvalKit",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -828,7 +880,8 @@
             "owner": "AQ-MedAI",
             "repo": "LiveClin",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         },
         {
           "node_type": "item",
@@ -843,14 +896,15 @@
             "owner": "medicalsphere",
             "repo": "HealthBench",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:50:18.129Z"
         }
       ],
       "title": "4. Benchmarks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:03.701Z",
+    "last_updated": "2026-08-28T05:50:18.129Z",
     "original_repository_info": {
       "archived": false,
       "id": 221641068,
