@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HuatuoGPT, Towards Taming Language Models To Be a Doctor. (An Open Medical GPT)",
+            "homepage": null,
             "id": 627261340,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-16T20:21:17Z",
+            "open_issues": 3,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1323
+            "stars": 1323,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -26,12 +31,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multilingual Medicine: Model, Dataset, Benchmark, Code",
+            "homepage": "https://apollo.llmzoo.com/#/",
             "id": 746621917,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-15T03:37:06Z",
+            "open_issues": 5,
             "owner": "FreedomIntelligence",
             "repo": "Apollo",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "llm",
+              "medical",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HuatuoGPT2, One-stage Training for Medical Adaption of LLMs. (An Open Medical GPT)",
+            "homepage": null,
             "id": 669535594,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-30T18:09:25Z",
+            "open_issues": 32,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-II",
-            "stars": 414
+            "stars": 414,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -58,12 +77,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Medical o1, Towards medical complex reasoning with LLMs",
+            "homepage": null,
             "id": 906833146,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-20T02:31:13Z",
+            "open_issues": 27,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-o1",
-            "stars": 1352
+            "stars": 1352,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -74,12 +98,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Nature Communications] The official codes for \"Towards Building Multilingual Language Model for Medicine\"",
+            "homepage": null,
             "id": 760485083,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-09T05:45:33Z",
+            "open_issues": 3,
             "owner": "MAGIC-AI4Med",
             "repo": "MMedLM",
-            "stars": 284
+            "stars": 284,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -90,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "S2ORC: The Semantic Scholar Open Research Corpus:  https://www.aclweb.org/anthology/2020.acl-main.447/",
+            "homepage": null,
             "id": 219476337,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-26T20:45:42Z",
+            "open_issues": 23,
             "owner": "allenai",
             "repo": "s2orc",
-            "stars": 1082
+            "stars": 1082,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -106,12 +140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official codes for \"PMC-LLaMA: Towards Building Open-source Language Models for Medicine\"",
+            "homepage": null,
             "id": 632335292,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-08T12:45:23Z",
+            "open_issues": 26,
             "owner": "chaoyi-wu",
             "repo": "PMC-LLaMA",
-            "stars": 680
+            "stars": 680,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -122,12 +161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 702536105,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-12T14:53:35Z",
+            "open_issues": 6,
             "owner": "m42-health",
             "repo": "med42",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -138,12 +182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2024 D&B Track, Spotlight] UltraMedical: Building Specialized Generalists in Biomedicine",
+            "homepage": "https://arxiv.org/abs/2406.03949",
             "id": 792217423,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-09-26T15:44:51Z",
+            "open_issues": 1,
             "owner": "TsinghuaC3I",
             "repo": "UltraMedical",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -154,12 +203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 757417528,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-20T18:08:13Z",
+            "open_issues": 1,
             "owner": "BioMistral",
             "repo": "BioMistral",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -170,12 +224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meditron is a suite of open-source medical Large Language Models (LLMs).",
+            "homepage": "https://huggingface.co/epfl-llm",
             "id": 722687885,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-10T11:48:37Z",
+            "open_issues": 17,
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2208
+            "stars": 2208,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -186,12 +245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beyond the Model: Scaling Medical Capability with a Large Verifier System",
+            "homepage": null,
             "id": 1035824348,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-09-03T11:17:25Z",
+            "open_issues": 8,
             "owner": "baichuan-inc",
             "repo": "Baichuan-M2-32B",
-            "stars": 215
+            "stars": 215,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -202,12 +266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 921040832,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-20T04:03:40Z",
+            "open_issues": 11,
             "owner": "baichuan-inc",
             "repo": "Baichuan-M1-14B",
-            "stars": 217
+            "stars": 217,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -218,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM finetuned for medical question answering",
+            "homepage": null,
             "id": 620345178,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-09-07T12:38:17Z",
+            "open_issues": 14,
             "owner": "kbressem",
             "repo": "medAlpaca",
-            "stars": 564
+            "stars": 564,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -234,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM finetuned for medical question answering",
+            "homepage": null,
             "id": 620345178,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-09-07T12:38:17Z",
+            "open_issues": 14,
             "owner": "kbressem",
             "repo": "medAlpaca",
-            "stars": 564
+            "stars": 564,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -250,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official code for \"Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data\".",
+            "homepage": null,
             "id": 673757763,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-25T04:41:59Z",
+            "open_issues": 23,
             "owner": "chaoyi-wu",
             "repo": "RadFM",
-            "stars": 566
+            "stars": 566,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -266,12 +350,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs",
+            "homepage": null,
             "id": 958321496,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-19T18:39:55Z",
+            "open_issues": 2,
             "owner": "UCSC-VLAA",
             "repo": "MedReason",
-            "stars": 283
+            "stars": 283,
+            "topics": [
+              "medical-dataset",
+              "medical-large-language-models",
+              "reasoning",
+              "reasoning-models"
+            ]
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -282,12 +376,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fleming-R1: Toward Expert-Level Medical Reasoning via Reinforcement Learning",
+            "homepage": null,
             "id": 1057695640,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-09-29T05:41:20Z",
+            "open_issues": 1,
             "owner": "UbiquantAI",
             "repo": "Fleming-R1",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -298,12 +397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 975789283,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-19T17:29:02Z",
+            "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1576
+            "stars": 1576,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -314,12 +418,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1119452297,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-22T06:04:37Z",
+            "open_issues": 5,
             "owner": "MedAIBase",
             "repo": "AntAngelMed",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         }
@@ -336,12 +445,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Medical Multimodal LLMs",
+            "homepage": null,
             "id": 819886293,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-23T15:59:50Z",
+            "open_issues": 25,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-Vision",
-            "stars": 400
+            "stars": 400,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -352,12 +466,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1040106198,
             "language": null,
+            "license": null,
             "last_commit": "2025-11-13T11:09:21Z",
+            "open_issues": 12,
             "owner": "FreedomIntelligence",
             "repo": "ShizhenGPT",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -368,12 +487,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Large Language-and-Vision Assistant for Biomedicine, built towards multimodal GPT-4 level capabilities.",
+            "homepage": null,
             "id": 643298473,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-04T15:56:12Z",
+            "open_issues": 107,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2231
+            "stars": 2231,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -384,12 +508,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Large Language-and-Vision Assistant for Biomedicine, built towards multimodal GPT-4 level capabilities.",
+            "homepage": null,
             "id": 643298473,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-04T15:56:12Z",
+            "open_issues": 107,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2231
+            "stars": 2231,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -400,12 +529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Large Language-and-Vision Assistant for Biomedicine, built towards multimodal GPT-4 level capabilities.",
+            "homepage": null,
             "id": 643298473,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-04T15:56:12Z",
+            "open_issues": 107,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2231
+            "stars": 2231,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -416,12 +550,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bio-Medical EXpert LMM with English and Arabic Language Capabilities",
+            "homepage": null,
             "id": 833175774,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-23T20:50:38Z",
+            "open_issues": 0,
             "owner": "mbzuai-oryx",
             "repo": "BiMediX2",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "medical-benchmarking",
+              "medical-imaging",
+              "medical-vision-language-model",
+              "mllm",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -432,12 +577,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Transparent Generalist Model towards Holistic Medical Vision-Language Understanding",
+            "homepage": null,
             "id": 1071943241,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:08:03Z",
+            "open_issues": 23,
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
-            "stars": 1033
+            "stars": 1033,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -448,12 +598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【ICML 2025 Spotlight】 Official Repo for Paper ‘’HealthGPT : A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation‘’",
+            "homepage": null,
             "id": 934009853,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T23:27:29Z",
+            "open_issues": 12,
             "owner": "ZJU4HealthCare",
             "repo": "HealthGPT",
-            "stars": 1654
+            "stars": 1654,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -464,12 +619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 606263696,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-23T18:03:37Z",
+            "open_issues": 19,
             "owner": "snap-stanford",
             "repo": "med-flamingo",
-            "stars": 453
+            "stars": 453,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -480,12 +640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 975789283,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-19T17:29:02Z",
+            "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1576
+            "stars": 1576,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -496,12 +661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models",
+            "homepage": null,
             "id": 952310267,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-07T21:39:31Z",
+            "open_issues": 10,
             "owner": "Yuxiang-Lai117",
             "repo": "Med-R1",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -512,12 +682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BiomedGPT: A Generalist Vision-Language Foundation Model for Diverse Biomedical Tasks",
+            "homepage": "https://www.nature.com/articles/s41591-024-03185-2",
             "id": 639546287,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-08T02:18:26Z",
+            "open_issues": 26,
             "owner": "taokz",
             "repo": "BiomedGPT",
-            "stars": 710
+            "stars": 710,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -528,12 +703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BiomedGPT: A Generalist Vision-Language Foundation Model for Diverse Biomedical Tasks",
+            "homepage": "https://www.nature.com/articles/s41591-024-03185-2",
             "id": 639546287,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-08T02:18:26Z",
+            "open_issues": 26,
             "owner": "taokz",
             "repo": "BiomedGPT",
-            "stars": 710
+            "stars": 710,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -544,12 +724,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1011271836,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-09-17T16:23:55Z",
+            "open_issues": 6,
             "owner": "JZPeterPan",
             "repo": "MedVLM-R1",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -560,12 +745,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of \"UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis\" - A unified medical vision-language model that integrates multimodal understanding and generation capabilities.",
+            "homepage": null,
             "id": 1074379128,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-30T09:39:10Z",
+            "open_issues": 0,
             "owner": "uni-medical",
             "repo": "UniMedVL",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "ai4health",
+              "cfp",
+              "ct",
+              "foundation-model",
+              "fundus-imaging",
+              "healthcare-ai",
+              "image-generation",
+              "image-understanding",
+              "medical-ai",
+              "medical-image-analysis",
+              "medical-imaging",
+              "medical-report-generation",
+              "mri",
+              "multimodal-learning",
+              "pathology",
+              "retinal-imaging",
+              "ultrasound",
+              "unified-model",
+              "vision-language-model",
+              "x-ray"
+            ]
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -576,12 +787,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NIPS 2025] Chiron-o1: Igniting Multimodal Large Language Models towards Generalizable Medical Reasoning via Mentor-Intern Collaborative Search",
+            "homepage": null,
             "id": 997923153,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-23T04:20:18Z",
+            "open_issues": 0,
             "owner": "manglu097",
             "repo": "Chiron-o1",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "cot",
+              "medical",
+              "mllm-reasoning",
+              "step-by-step"
+            ]
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -592,12 +813,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-sourced code of MiniGPT-Med",
+            "homepage": "https://openreview.net/pdf?id=NenHFEg1Di",
             "id": 747552922,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-22T17:22:02Z",
+            "open_issues": 8,
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-Med",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -608,12 +834,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-sourced code of MiniGPT-Med",
+            "homepage": "https://openreview.net/pdf?id=NenHFEg1Di",
             "id": 747552922,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-22T17:22:02Z",
+            "open_issues": 8,
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-Med",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -624,12 +855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-sourced code of MiniGPT-Med",
+            "homepage": "https://openreview.net/pdf?id=NenHFEg1Di",
             "id": 747552922,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-22T17:22:02Z",
+            "open_issues": 8,
             "owner": "Vision-CAIR",
             "repo": "MiniGPT-Med",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -640,12 +876,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fleming-VL: Towards Universal Medical Visual Understanding with Multimodal LLMs",
+            "homepage": null,
             "id": 1085726892,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-11-06T03:55:30Z",
+            "open_issues": 3,
             "owner": "UbiquantAI",
             "repo": "Fleming-VL",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -656,12 +897,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 852098024,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-22T18:03:27Z",
+            "open_issues": 15,
             "owner": "Project-MONAI",
             "repo": "VLM-Radiology-Agent-Framework",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -672,12 +918,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 975789283,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-19T17:29:02Z",
+            "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1576
+            "stars": 1576,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -688,12 +939,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Ended Medical Reinforcement Learning",
+            "homepage": "https://medix.cvmbzuai.com/",
             "id": 1161177194,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-15T14:00:06Z",
+            "open_issues": 0,
             "owner": "mbzuai-oryx",
             "repo": "MediX-R1",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "dapo",
+              "grpo",
+              "medical-reinforcement-learning",
+              "medical-rl",
+              "medical-vision-language-model",
+              "medical-vqa",
+              "open-ended-medical-reasoning",
+              "open-ended-reinforcement-learning",
+              "open-ended-rl"
+            ]
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -704,12 +970,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MedMO: Medical Foundation Model",
+            "homepage": "https://genmilab.github.io/MedMO-Page",
             "id": 1151487598,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-08T14:16:13Z",
+            "open_issues": 1,
             "owner": "genmilab",
             "repo": "MedMO",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "grounding",
+              "llm",
+              "medical-foundation-model",
+              "medical-grounding",
+              "medical-imaging",
+              "medical-report-generation",
+              "medicalai",
+              "medmo",
+              "medmo-next",
+              "medqa",
+              "medvqa",
+              "multimodal",
+              "qwen3vl",
+              "report-generation",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -720,12 +1007,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://arxiv.org/abs/2506.00711",
             "id": 984513301,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-31T12:35:04Z",
+            "open_issues": 4,
             "owner": "DDVD233",
             "repo": "QoQ_Med",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -736,12 +1028,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ML4H'25] MedVLThinker: Simple Baselines for Multimodal Medical Reasoning",
+            "homepage": "https://ucsc-vlaa.github.io/MedVLThinker/",
             "id": 1030946420,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-21T06:19:11Z",
+            "open_issues": 0,
             "owner": "UCSC-VLAA",
             "repo": "MedVLThinker",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -752,12 +1049,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Citrus-V: Advancing Medical Foundation Models with Unified Medical Image Grounding for Clinical Reasoning",
+            "homepage": "https://jdh-algo.github.io/Citrus-V/",
             "id": 1061727449,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-26T07:11:39Z",
+            "open_issues": 2,
             "owner": "jdh-algo",
             "repo": "Citrus-V",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -768,12 +1070,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+            "homepage": null,
             "id": 1171500666,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T06:12:11Z",
+            "open_issues": 2,
             "owner": "alibaba-damo-academy",
             "repo": "ClinFusion",
-            "stars": 206
+            "stars": 206,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         }
@@ -792,12 +1099,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Largest-scale Chinese Medical QA Dataset： with 26,000,000 question answer pairs.",
+                "homepage": null,
                 "id": 635374839,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-14T04:54:23Z",
+                "open_issues": 4,
                 "owner": "FreedomIntelligence",
                 "repo": "Huatuo-26M",
-                "stars": 346
+                "stars": 346,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:18.129Z"
             }
@@ -815,12 +1127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 983174225,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-06-24T09:06:21Z",
+                "open_issues": 0,
                 "owner": "JiarunLiu",
                 "repo": "BioVFM",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:18.129Z"
             },
@@ -831,12 +1148,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development",
+                "homepage": "https://github.com/uni-medical/Project-Imaging-X/",
                 "id": 1061514407,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-03T09:28:46Z",
+                "open_issues": 12,
                 "owner": "uni-medical",
                 "repo": "Project-Imaging-X",
-                "stars": 477
+                "stars": 477,
+                "topics": [
+                  "dermoscopy",
+                  "endoscopy",
+                  "foundation-models",
+                  "fundus",
+                  "medical-image-analysis",
+                  "multimodal-models",
+                  "open-science",
+                  "ophthalmology",
+                  "pathology",
+                  "radiology",
+                  "survey",
+                  "ultrasound"
+                ]
               },
               "first_seen": "2026-08-28T05:50:18.129Z"
             }
@@ -858,12 +1193,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MedEvalKit: A Unified Medical Evaluation Framework",
+            "homepage": "https://alibaba-damo-academy.github.io/lingshu/",
             "id": 999941701,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-24T02:40:45Z",
+            "open_issues": 17,
             "owner": "alibaba-damo-academy",
             "repo": "MedEvalKit",
-            "stars": 253
+            "stars": 253,
+            "topics": [
+              "evaluation-framework",
+              "llm",
+              "medicalai",
+              "multimodal"
+            ]
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -874,12 +1219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LiveClin is a live benchmark designed for the faithful replication of clinical practice",
+            "homepage": null,
             "id": 1155176016,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-27T12:35:48Z",
+            "open_issues": 0,
             "owner": "AQ-MedAI",
             "repo": "LiveClin",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -890,12 +1240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of OpenAI's HealthBench evaluation framework",
+            "homepage": null,
             "id": 1121474331,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-24T21:36:37Z",
+            "open_issues": 0,
             "owner": "medicalsphere",
             "repo": "HealthBench",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         }
@@ -904,15 +1259,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:23:25.554Z",
+    "last_updated": "2026-08-29T04:22:28.432Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
+      "homepage": null,
       "id": 221641068,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-04T14:35:31Z",
+      "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2869
+      "stars": 2869,
+      "topics": [
+        "awesome-lists",
+        "collection",
+        "datasets",
+        "medical",
+        "medical-imaging",
+        "medical-llms",
+        "medical-vlms",
+        "models"
+      ]
     },
     "original_repository_sha": "62def4feb707cf4df9a3aeb2ffa4735c4a5cc5f2",
     "enhanced_repository": "enhansome/enhansome-Awesome-AI4Med",
