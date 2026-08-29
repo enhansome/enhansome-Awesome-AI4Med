@@ -15,7 +15,7 @@
             "last_commit": "2024-12-16T20:21:17Z",
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1322
+            "stars": 1323
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -255,7 +255,7 @@
             "last_commit": "2025-07-25T04:41:59Z",
             "owner": "chaoyi-wu",
             "repo": "RadFM",
-            "stars": 564
+            "stars": 566
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -303,7 +303,7 @@
             "last_commit": "2026-06-19T17:29:02Z",
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1574
+            "stars": 1576
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -434,7 +434,7 @@
             "archived": false,
             "id": 1071943241,
             "language": "Python",
-            "last_commit": "2026-06-16T09:37:48Z",
+            "last_commit": "2026-08-28T14:08:03Z",
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
             "stars": 1033
@@ -485,7 +485,7 @@
             "last_commit": "2026-06-19T17:29:02Z",
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1574
+            "stars": 1576
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -501,7 +501,7 @@
             "last_commit": "2025-07-07T21:39:31Z",
             "owner": "Yuxiang-Lai117",
             "repo": "Med-R1",
-            "stars": 131
+            "stars": 130
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -677,7 +677,7 @@
             "last_commit": "2026-06-19T17:29:02Z",
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1574
+            "stars": 1576
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
         },
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:50:18.129Z",
+    "last_updated": "2026-08-29T03:23:25.554Z",
     "original_repository_info": {
       "archived": false,
       "id": 221641068,
