@@ -233,7 +233,7 @@
             "open_issues": 17,
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2208,
+            "stars": 2209,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -406,7 +406,7 @@
             "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1576,
+            "stars": 1577,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1576,
+            "stars": 1577,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -927,7 +927,7 @@
             "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1576,
+            "stars": 1577,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:28.432Z",
+    "last_updated": "2026-08-29T23:38:42.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
