@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1323,
+            "stars": 1324,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -582,7 +582,7 @@
             "id": 1071943241,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T14:08:03Z",
+            "last_commit": "2026-08-30T12:18:18Z",
             "open_issues": 23,
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
@@ -1108,7 +1108,7 @@
                 "open_issues": 4,
                 "owner": "FreedomIntelligence",
                 "repo": "Huatuo-26M",
-                "stars": 346,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:38:42.154Z",
+    "last_updated": "2026-08-30T23:56:20.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
