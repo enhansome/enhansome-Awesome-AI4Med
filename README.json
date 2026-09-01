@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1324,
+            "stars": 1325,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -233,7 +233,7 @@
             "open_issues": 17,
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2209,
+            "stars": 2210,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -254,7 +254,7 @@
             "open_issues": 8,
             "owner": "baichuan-inc",
             "repo": "Baichuan-M2-32B",
-            "stars": 215,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -406,7 +406,7 @@
             "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1577,
+            "stars": 1578,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -496,7 +496,7 @@
             "open_issues": 107,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2231,
+            "stars": 2232,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -517,7 +517,7 @@
             "open_issues": 107,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2231,
+            "stars": 2232,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -538,7 +538,7 @@
             "open_issues": 107,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2231,
+            "stars": 2232,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1577,
+            "stars": 1578,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -745,7 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Official implementation of \"UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis\" - A unified medical vision-language model that integrates multimodal understanding and generation capabilities.",
+            "description": "[ICML 2026] Official UniMedVL implementation — a unified medical vision-language model for multimodal understanding, medical image generation, and interleaved tasks in a single checkpoint, trained on UniMed-5M (5.6M+ samples).",
             "homepage": null,
             "id": 1074379128,
             "language": "Python",
@@ -756,26 +756,25 @@
             "repo": "UniMedVL",
             "stars": 105,
             "topics": [
-              "ai4health",
-              "cfp",
-              "ct",
-              "foundation-model",
-              "fundus-imaging",
-              "healthcare-ai",
+              "artificial-intelligence",
+              "computer-vision",
+              "deep-learning",
+              "foundation-models",
+              "generative-ai",
               "image-generation",
               "image-understanding",
+              "llm",
+              "machine-learning",
               "medical-ai",
-              "medical-image-analysis",
               "medical-imaging",
               "medical-report-generation",
-              "mri",
+              "multimodal",
               "multimodal-learning",
-              "pathology",
-              "retinal-imaging",
-              "ultrasound",
+              "pytorch",
+              "text-to-image",
+              "transformers",
               "unified-model",
-              "vision-language-model",
-              "x-ray"
+              "vision-language-model"
             ]
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -927,7 +926,7 @@
             "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1577,
+            "stars": 1578,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1075,11 +1074,11 @@
             "id": 1171500666,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-16T06:12:11Z",
+            "last_commit": "2026-08-31T12:30:39Z",
             "open_issues": 2,
             "owner": "alibaba-damo-academy",
             "repo": "ClinFusion",
-            "stars": 206,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1108,7 +1107,7 @@
                 "open_issues": 4,
                 "owner": "FreedomIntelligence",
                 "repo": "Huatuo-26M",
-                "stars": 347,
+                "stars": 348,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1157,7 +1156,7 @@
                 "open_issues": 12,
                 "owner": "uni-medical",
                 "repo": "Project-Imaging-X",
-                "stars": 477,
+                "stars": 478,
                 "topics": [
                   "dermoscopy",
                   "endoscopy",
@@ -1259,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T23:56:20.785Z",
+    "last_updated": "2026-09-01T00:48:51.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
