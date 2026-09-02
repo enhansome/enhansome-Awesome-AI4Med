@@ -86,7 +86,7 @@
             "open_issues": 27,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-o1",
-            "stars": 1352,
+            "stars": 1355,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -406,7 +406,7 @@
             "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1578,
+            "stars": 1580,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -475,7 +475,7 @@
             "open_issues": 12,
             "owner": "FreedomIntelligence",
             "repo": "ShizhenGPT",
-            "stars": 145,
+            "stars": 146,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -586,7 +586,7 @@
             "open_issues": 23,
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
-            "stars": 999,
+            "stars": 1000,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -607,7 +607,7 @@
             "open_issues": 12,
             "owner": "ZJU4HealthCare",
             "repo": "HealthGPT",
-            "stars": 1654,
+            "stars": 1655,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1578,
+            "stars": 1580,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -754,7 +754,7 @@
             "open_issues": 0,
             "owner": "uni-medical",
             "repo": "UniMedVL",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -926,7 +926,7 @@
             "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1578,
+            "stars": 1580,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1078,7 +1078,7 @@
             "open_issues": 2,
             "owner": "alibaba-damo-academy",
             "repo": "ClinFusion",
-            "stars": 208,
+            "stars": 209,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1201,7 +1201,7 @@
             "open_issues": 17,
             "owner": "alibaba-damo-academy",
             "repo": "MedEvalKit",
-            "stars": 253,
+            "stars": 254,
             "topics": [
               "evaluation-framework",
               "llm",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:35:27.939Z",
+    "last_updated": "2026-09-02T23:36:21.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
