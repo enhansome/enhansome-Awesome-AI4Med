@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1327,
+            "stars": 1326,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -254,7 +254,7 @@
             "open_issues": 8,
             "owner": "baichuan-inc",
             "repo": "Baichuan-M2-32B",
-            "stars": 214,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -406,7 +406,7 @@
             "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1580,
+            "stars": 1581,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -586,7 +586,7 @@
             "open_issues": 23,
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
-            "stars": 1001,
+            "stars": 1004,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1580,
+            "stars": 1581,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -884,7 +884,7 @@
             "open_issues": 3,
             "owner": "UbiquantAI",
             "repo": "Fleming-VL",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -926,7 +926,7 @@
             "open_issues": 30,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1580,
+            "stars": 1581,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -978,7 +978,7 @@
             "open_issues": 1,
             "owner": "genmilab",
             "repo": "MedMO",
-            "stars": 28,
+            "stars": 27,
             "topics": [
               "grounding",
               "llm",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:34:59.133Z",
+    "last_updated": "2026-09-04T23:24:31.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
