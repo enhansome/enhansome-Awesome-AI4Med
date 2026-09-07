@@ -128,7 +128,7 @@
             "open_issues": 23,
             "owner": "allenai",
             "repo": "s2orc",
-            "stars": 1084,
+            "stars": 1086,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -403,10 +403,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-06-19T17:29:02Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1584,
+            "stars": 1586,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -454,7 +454,7 @@
             "open_issues": 25,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-Vision",
-            "stars": 400,
+            "stars": 401,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -646,10 +646,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-06-19T17:29:02Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1584,
+            "stars": 1586,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -691,7 +691,7 @@
             "open_issues": 26,
             "owner": "taokz",
             "repo": "BiomedGPT",
-            "stars": 710,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -712,7 +712,7 @@
             "open_issues": 26,
             "owner": "taokz",
             "repo": "BiomedGPT",
-            "stars": 710,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -923,10 +923,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-06-19T17:29:02Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1584,
+            "stars": 1586,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1078,7 +1078,7 @@
             "open_issues": 2,
             "owner": "alibaba-damo-academy",
             "repo": "ClinFusion",
-            "stars": 211,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1201,7 +1201,7 @@
             "open_issues": 17,
             "owner": "alibaba-damo-academy",
             "repo": "MedEvalKit",
-            "stars": 255,
+            "stars": 256,
             "topics": [
               "evaluation-framework",
               "llm",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T23:15:40.455Z",
+    "last_updated": "2026-09-07T23:48:28.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
@@ -1270,7 +1270,7 @@
       "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2873,
+      "stars": 2875,
       "topics": [
         "awesome-lists",
         "collection",
