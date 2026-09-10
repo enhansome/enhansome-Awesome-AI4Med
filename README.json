@@ -406,7 +406,7 @@
             "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1587,
+            "stars": 1590,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1587,
+            "stars": 1590,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -733,7 +733,7 @@
             "open_issues": 6,
             "owner": "JZPeterPan",
             "repo": "MedVLM-R1",
-            "stars": 34,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -884,7 +884,7 @@
             "open_issues": 3,
             "owner": "UbiquantAI",
             "repo": "Fleming-VL",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -926,7 +926,7 @@
             "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1587,
+            "stars": 1590,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:32:32.147Z",
+    "last_updated": "2026-09-10T23:26:49.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
@@ -1270,7 +1270,7 @@
       "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2876,
+      "stars": 2877,
       "topics": [
         "awesome-lists",
         "collection",
