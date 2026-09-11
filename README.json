@@ -107,7 +107,7 @@
             "open_issues": 3,
             "owner": "MAGIC-AI4Med",
             "repo": "MMedLM",
-            "stars": 283,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -128,7 +128,7 @@
             "open_issues": 24,
             "owner": "allenai",
             "repo": "s2orc",
-            "stars": 1086,
+            "stars": 1087,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -212,7 +212,7 @@
             "open_issues": 1,
             "owner": "BioMistral",
             "repo": "BioMistral",
-            "stars": 65,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -296,7 +296,7 @@
             "open_issues": 14,
             "owner": "kbressem",
             "repo": "medAlpaca",
-            "stars": 564,
+            "stars": 565,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -317,7 +317,7 @@
             "open_issues": 14,
             "owner": "kbressem",
             "repo": "medAlpaca",
-            "stars": 564,
+            "stars": 565,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -383,9 +383,9 @@
             "license": "Apache-2.0",
             "last_commit": "2025-09-29T05:41:20Z",
             "open_issues": 1,
-            "owner": "UbiquantAI",
+            "owner": "IQuestLab",
             "repo": "Fleming-R1",
-            "stars": 31,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -406,7 +406,7 @@
             "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1590,
+            "stars": 1592,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -475,7 +475,7 @@
             "open_issues": 12,
             "owner": "FreedomIntelligence",
             "repo": "ShizhenGPT",
-            "stars": 147,
+            "stars": 148,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1590,
+            "stars": 1592,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -882,7 +882,7 @@
             "license": "Apache-2.0",
             "last_commit": "2025-11-06T03:55:30Z",
             "open_issues": 3,
-            "owner": "UbiquantAI",
+            "owner": "IQuestLab",
             "repo": "Fleming-VL",
             "stars": 18,
             "topics": []
@@ -926,7 +926,7 @@
             "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1590,
+            "stars": 1592,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:26:49.890Z",
+    "last_updated": "2026-09-11T23:33:45.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
@@ -1270,7 +1270,7 @@
       "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2877,
+      "stars": 2880,
       "topics": [
         "awesome-lists",
         "collection",
