@@ -406,7 +406,7 @@
             "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1596,
+            "stars": 1597,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1596,
+            "stars": 1597,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -905,7 +905,7 @@
             "open_issues": 15,
             "owner": "Project-MONAI",
             "repo": "VLM-Radiology-Agent-Framework",
-            "stars": 221,
+            "stars": 220,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -926,7 +926,7 @@
             "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1596,
+            "stars": 1597,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1078,7 +1078,7 @@
             "open_issues": 2,
             "owner": "alibaba-damo-academy",
             "repo": "ClinFusion",
-            "stars": 213,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1201,7 +1201,7 @@
             "open_issues": 17,
             "owner": "alibaba-damo-academy",
             "repo": "MedEvalKit",
-            "stars": 257,
+            "stars": 258,
             "topics": [
               "evaluation-framework",
               "llm",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:27:06.740Z",
+    "last_updated": "2026-09-13T23:38:58.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
@@ -1270,7 +1270,7 @@
       "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2880,
+      "stars": 2882,
       "topics": [
         "awesome-lists",
         "collection",
