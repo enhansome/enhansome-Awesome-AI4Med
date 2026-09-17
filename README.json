@@ -406,7 +406,7 @@
             "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1600,
+            "stars": 1601,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -607,7 +607,7 @@
             "open_issues": 13,
             "owner": "ZJU4HealthCare",
             "repo": "HealthGPT",
-            "stars": 1660,
+            "stars": 1661,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1600,
+            "stars": 1601,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -670,7 +670,7 @@
             "open_issues": 10,
             "owner": "Yuxiang-Lai117",
             "repo": "Med-R1",
-            "stars": 130,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -905,7 +905,7 @@
             "open_issues": 15,
             "owner": "Project-MONAI",
             "repo": "VLM-Radiology-Agent-Framework",
-            "stars": 222,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -926,7 +926,7 @@
             "open_issues": 29,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1600,
+            "stars": 1601,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1015,7 +1015,7 @@
             "open_issues": 4,
             "owner": "DDVD233",
             "repo": "QoQ_Med",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:54:04.764Z",
+    "last_updated": "2026-09-17T23:44:10.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
