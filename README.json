@@ -233,7 +233,7 @@
             "open_issues": 17,
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2210,
+            "stars": 2209,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -691,7 +691,7 @@
             "open_issues": 26,
             "owner": "taokz",
             "repo": "BiomedGPT",
-            "stars": 711,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -712,7 +712,7 @@
             "open_issues": 26,
             "owner": "taokz",
             "repo": "BiomedGPT",
-            "stars": 711,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -905,7 +905,7 @@
             "open_issues": 15,
             "owner": "Project-MONAI",
             "repo": "VLM-Radiology-Agent-Framework",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1078,7 +1078,7 @@
             "open_issues": 2,
             "owner": "alibaba-damo-academy",
             "repo": "ClinFusion",
-            "stars": 215,
+            "stars": 216,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1156,7 +1156,7 @@
                 "open_issues": 12,
                 "owner": "uni-medical",
                 "repo": "Project-Imaging-X",
-                "stars": 481,
+                "stars": 482,
                 "topics": [
                   "dermoscopy",
                   "endoscopy",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:44:10.254Z",
+    "last_updated": "2026-09-18T23:38:17.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
@@ -1270,7 +1270,7 @@
       "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2883,
+      "stars": 2886,
       "topics": [
         "awesome-lists",
         "collection",
