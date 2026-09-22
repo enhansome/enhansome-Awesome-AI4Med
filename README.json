@@ -65,7 +65,7 @@
             "open_issues": 32,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-II",
-            "stars": 416,
+            "stars": 417,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -86,7 +86,7 @@
             "open_issues": 27,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-o1",
-            "stars": 1359,
+            "stars": 1361,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -128,7 +128,7 @@
             "open_issues": 24,
             "owner": "allenai",
             "repo": "s2orc",
-            "stars": 1087,
+            "stars": 1088,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -454,7 +454,7 @@
             "open_issues": 25,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-Vision",
-            "stars": 402,
+            "stars": 403,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -754,7 +754,7 @@
             "open_issues": 0,
             "owner": "uni-medical",
             "repo": "UniMedVL",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -1201,7 +1201,7 @@
             "open_issues": 17,
             "owner": "alibaba-damo-academy",
             "repo": "MedEvalKit",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "evaluation-framework",
               "llm",
@@ -1227,7 +1227,7 @@
             "open_issues": 0,
             "owner": "AQ-MedAI",
             "repo": "LiveClin",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:18:43.841Z",
+    "last_updated": "2026-09-22T23:52:17.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
