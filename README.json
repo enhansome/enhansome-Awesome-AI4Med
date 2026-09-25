@@ -406,7 +406,7 @@
             "open_issues": 25,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1608,
+            "stars": 1610,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 25,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1608,
+            "stars": 1610,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -926,7 +926,7 @@
             "open_issues": 25,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1608,
+            "stars": 1610,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T00:00:24.277Z",
+    "last_updated": "2026-09-25T00:04:04.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
@@ -1270,7 +1270,7 @@
       "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2888,
+      "stars": 2889,
       "topics": [
         "awesome-lists",
         "collection",
