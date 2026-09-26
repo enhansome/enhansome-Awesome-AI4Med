@@ -406,7 +406,7 @@
             "open_issues": 25,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1610,
+            "stars": 1612,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 25,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1610,
+            "stars": 1612,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -926,7 +926,7 @@
             "open_issues": 25,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1610,
+            "stars": 1612,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1156,7 +1156,7 @@
                 "open_issues": 12,
                 "owner": "uni-medical",
                 "repo": "Project-Imaging-X",
-                "stars": 483,
+                "stars": 484,
                 "topics": [
                   "dermoscopy",
                   "endoscopy",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:04:04.445Z",
+    "last_updated": "2026-09-26T00:10:59.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
@@ -1270,7 +1270,7 @@
       "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2889,
+      "stars": 2890,
       "topics": [
         "awesome-lists",
         "collection",
