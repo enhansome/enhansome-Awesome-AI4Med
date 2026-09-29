@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1329,
+            "stars": 1331,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "FreedomIntelligence",
             "repo": "Apollo",
-            "stars": 203,
+            "stars": 202,
             "topics": [
               "llm",
               "medical",
@@ -86,7 +86,7 @@
             "open_issues": 27,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-o1",
-            "stars": 1362,
+            "stars": 1363,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -128,7 +128,7 @@
             "open_issues": 24,
             "owner": "allenai",
             "repo": "s2orc",
-            "stars": 1088,
+            "stars": 1089,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -233,7 +233,7 @@
             "open_issues": 17,
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2209,
+            "stars": 2210,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -403,10 +403,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-06-19T17:29:02Z",
-            "open_issues": 25,
+            "open_issues": 23,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1614,
+            "stars": 1615,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -646,10 +646,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-06-19T17:29:02Z",
-            "open_issues": 25,
+            "open_issues": 23,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1614,
+            "stars": 1615,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -923,10 +923,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-06-19T17:29:02Z",
-            "open_issues": 25,
+            "open_issues": 23,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1614,
+            "stars": 1615,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T00:00:57.252Z",
+    "last_updated": "2026-09-29T01:17:59.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
