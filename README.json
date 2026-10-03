@@ -115,7 +115,7 @@
         {
           "node_type": "item",
           "title": "[HF",
-          "description": "]",
+          "description": "allenai/s2orc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -136,7 +136,7 @@
         {
           "node_type": "item",
           "title": "chaoyi-wu/PMC-LLaMA",
-          "description": "]",
+          "description": "chaoyi-wu/PMC-LLaMA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -283,7 +283,7 @@
         {
           "node_type": "item",
           "title": "kbressem/medAlpaca",
-          "description": "]",
+          "description": "kbressem/medAlpaca",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -304,7 +304,7 @@
         {
           "node_type": "item",
           "title": "kbressem/medAlpaca",
-          "description": "]",
+          "description": "kbressem/medAlpaca",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -483,7 +483,7 @@
         {
           "node_type": "item",
           "title": "microsoft/LLaVA-Med",
-          "description": "]",
+          "description": "microsoft/LLaVA-Med",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -504,7 +504,7 @@
         {
           "node_type": "item",
           "title": "microsoft/LLaVA-Med",
-          "description": "]",
+          "description": "microsoft/LLaVA-Med",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -525,7 +525,7 @@
         {
           "node_type": "item",
           "title": "microsoft/LLaVA-Med",
-          "description": "]",
+          "description": "microsoft/LLaVA-Med",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -546,7 +546,7 @@
         {
           "node_type": "item",
           "title": "mbzuai-oryx/BiMediX2",
-          "description": "]",
+          "description": "mbzuai-oryx/BiMediX2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -678,7 +678,7 @@
         {
           "node_type": "item",
           "title": "taokz/BiomedGPT",
-          "description": "]",
+          "description": "taokz/BiomedGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -699,7 +699,7 @@
         {
           "node_type": "item",
           "title": "taokz/BiomedGPT",
-          "description": "]",
+          "description": "taokz/BiomedGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -808,7 +808,7 @@
         {
           "node_type": "item",
           "title": "[HF",
-          "description": "]",
+          "description": "Vision-CAIR/MiniGPT-Med",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -829,7 +829,7 @@
         {
           "node_type": "item",
           "title": "Vision-CAIR/MiniGPT-Med",
-          "description": "]",
+          "description": "Vision-CAIR/MiniGPT-Med",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -850,7 +850,7 @@
         {
           "node_type": "item",
           "title": "Vision-CAIR/MiniGPT-Med",
-          "description": "]",
+          "description": "Vision-CAIR/MiniGPT-Med",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1214,7 +1214,7 @@
         {
           "node_type": "item",
           "title": "LiveClin",
-          "description": "[Github] -",
+          "description": "AQ-MedAI/LiveClin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:45:57.883Z",
+    "last_updated": "2026-10-03T04:24:42.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
