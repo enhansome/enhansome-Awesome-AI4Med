@@ -86,7 +86,7 @@
             "open_issues": 27,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-o1",
-            "stars": 1361,
+            "stars": 1360,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -947,7 +947,7 @@
             "open_issues": 0,
             "owner": "mbzuai-oryx",
             "repo": "MediX-R1",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "dapo",
               "grpo",
@@ -1015,7 +1015,7 @@
             "open_issues": 4,
             "owner": "DDVD233",
             "repo": "QoQ_Med",
-            "stars": 53,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:25:55.781Z",
+    "last_updated": "2026-10-07T01:02:44.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
