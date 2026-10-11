@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1332,
+            "stars": 1333,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -733,7 +733,7 @@
             "open_issues": 6,
             "owner": "JZPeterPan",
             "repo": "MedVLM-R1",
-            "stars": 38,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -978,7 +978,7 @@
             "open_issues": 1,
             "owner": "genmilab",
             "repo": "MedMO",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "grounding",
               "llm",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:19:12.213Z",
+    "last_updated": "2026-10-11T00:32:31.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
