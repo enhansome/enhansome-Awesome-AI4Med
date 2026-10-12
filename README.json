@@ -86,7 +86,7 @@
             "open_issues": 27,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-o1",
-            "stars": 1362,
+            "stars": 1363,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -296,7 +296,7 @@
             "open_issues": 14,
             "owner": "kbressem",
             "repo": "medAlpaca",
-            "stars": 567,
+            "stars": 568,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -317,7 +317,7 @@
             "open_issues": 14,
             "owner": "kbressem",
             "repo": "medAlpaca",
-            "stars": 567,
+            "stars": 568,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -406,7 +406,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1625,
+            "stars": 1628,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -496,7 +496,7 @@
             "open_issues": 107,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2233,
+            "stars": 2234,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -517,7 +517,7 @@
             "open_issues": 107,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2233,
+            "stars": 2234,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -538,7 +538,7 @@
             "open_issues": 107,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2233,
+            "stars": 2234,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -607,7 +607,7 @@
             "open_issues": 13,
             "owner": "ZJU4HealthCare",
             "repo": "HealthGPT",
-            "stars": 1662,
+            "stars": 1661,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1625,
+            "stars": 1628,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -926,7 +926,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1625,
+            "stars": 1628,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:32:31.957Z",
+    "last_updated": "2026-10-12T00:45:32.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
