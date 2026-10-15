@@ -359,7 +359,7 @@
             "open_issues": 2,
             "owner": "UCSC-VLAA",
             "repo": "MedReason",
-            "stars": 282,
+            "stars": 283,
             "topics": [
               "medical-dataset",
               "medical-large-language-models",
@@ -406,7 +406,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1632,
+            "stars": 1633,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1632,
+            "stars": 1633,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -926,7 +926,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1632,
+            "stars": 1633,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1152,7 +1152,7 @@
                 "id": 1061514407,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-04-03T09:28:46Z",
+                "last_commit": "2026-10-15T01:06:44Z",
                 "open_issues": 12,
                 "owner": "uni-medical",
                 "repo": "Project-Imaging-X",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:08:26.444Z",
+    "last_updated": "2026-10-15T23:55:16.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
