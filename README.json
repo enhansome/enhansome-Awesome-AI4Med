@@ -230,7 +230,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-04-10T11:48:37Z",
-            "open_issues": 17,
+            "open_issues": 16,
             "owner": "epfLLM",
             "repo": "meditron",
             "stars": 2212,
@@ -586,7 +586,7 @@
             "open_issues": 23,
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
-            "stars": 839,
+            "stars": 863,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -607,7 +607,7 @@
             "open_issues": 13,
             "owner": "ZJU4HealthCare",
             "repo": "HealthGPT",
-            "stars": 1661,
+            "stars": 1662,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1107,7 +1107,7 @@
                 "open_issues": 4,
                 "owner": "FreedomIntelligence",
                 "repo": "Huatuo-26M",
-                "stars": 352,
+                "stars": 353,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:30:20.334Z",
+    "last_updated": "2026-10-18T23:43:26.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
