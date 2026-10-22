@@ -338,7 +338,7 @@
             "open_issues": 23,
             "owner": "chaoyi-wu",
             "repo": "RadFM",
-            "stars": 570,
+            "stars": 571,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -406,7 +406,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1635,
+            "stars": 1636,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -427,7 +427,7 @@
             "open_issues": 5,
             "owner": "MedAIBase",
             "repo": "AntAngelMed",
-            "stars": 220,
+            "stars": 221,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -586,7 +586,7 @@
             "open_issues": 23,
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
-            "stars": 881,
+            "stars": 897,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1635,
+            "stars": 1636,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -754,7 +754,7 @@
             "open_issues": 1,
             "owner": "uni-medical",
             "repo": "UniMedVL",
-            "stars": 111,
+            "stars": 112,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -926,7 +926,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1635,
+            "stars": 1636,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1153,10 +1153,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-15T01:06:44Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "uni-medical",
                 "repo": "Project-Imaging-X",
-                "stars": 490,
+                "stars": 491,
                 "topics": [
                   "dermoscopy",
                   "endoscopy",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:10:41.276Z",
+    "last_updated": "2026-10-22T00:16:01.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
