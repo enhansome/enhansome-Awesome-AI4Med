@@ -212,7 +212,7 @@
             "open_issues": 1,
             "owner": "BioMistral",
             "repo": "BioMistral",
-            "stars": 79,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -233,7 +233,7 @@
             "open_issues": 16,
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2212,
+            "stars": 2213,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -406,7 +406,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1636,
+            "stars": 1640,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -586,7 +586,7 @@
             "open_issues": 23,
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
-            "stars": 897,
+            "stars": 911,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1636,
+            "stars": 1640,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -926,7 +926,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1636,
+            "stars": 1640,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1078,7 +1078,7 @@
             "open_issues": 2,
             "owner": "alibaba-damo-academy",
             "repo": "ClinFusion",
-            "stars": 218,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:16:01.996Z",
+    "last_updated": "2026-10-23T00:12:46.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
@@ -1270,7 +1270,7 @@
       "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2897,
+      "stars": 2898,
       "topics": [
         "awesome-lists",
         "collection",
