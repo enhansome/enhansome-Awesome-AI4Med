@@ -107,7 +107,7 @@
             "open_issues": 3,
             "owner": "MAGIC-AI4Med",
             "repo": "MMedLM",
-            "stars": 282,
+            "stars": 283,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -128,7 +128,7 @@
             "open_issues": 24,
             "owner": "allenai",
             "repo": "s2orc",
-            "stars": 1090,
+            "stars": 1091,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -475,7 +475,7 @@
             "open_issues": 12,
             "owner": "FreedomIntelligence",
             "repo": "ShizhenGPT",
-            "stars": 153,
+            "stars": 154,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -586,7 +586,7 @@
             "open_issues": 23,
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
-            "stars": 911,
+            "stars": 933,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1198,7 +1198,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-02-24T02:40:45Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "alibaba-damo-academy",
             "repo": "MedEvalKit",
             "stars": 266,
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:12:46.367Z",
+    "last_updated": "2026-10-24T00:04:54.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
@@ -1270,7 +1270,7 @@
       "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2898,
+      "stars": 2899,
       "topics": [
         "awesome-lists",
         "collection",
