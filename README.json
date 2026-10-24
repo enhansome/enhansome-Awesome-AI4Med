@@ -251,7 +251,7 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2025-09-03T11:17:25Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "baichuan-inc",
             "repo": "Baichuan-M2-32B",
             "stars": 215,
@@ -275,7 +275,7 @@
             "open_issues": 11,
             "owner": "baichuan-inc",
             "repo": "Baichuan-M1-14B",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -296,7 +296,7 @@
             "open_issues": 14,
             "owner": "kbressem",
             "repo": "medAlpaca",
-            "stars": 568,
+            "stars": 567,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -317,7 +317,7 @@
             "open_issues": 14,
             "owner": "kbressem",
             "repo": "medAlpaca",
-            "stars": 568,
+            "stars": 567,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -406,7 +406,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1640,
+            "stars": 1642,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -496,7 +496,7 @@
             "open_issues": 107,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2237,
+            "stars": 2238,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -517,7 +517,7 @@
             "open_issues": 107,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2237,
+            "stars": 2238,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -538,7 +538,7 @@
             "open_issues": 107,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2237,
+            "stars": 2238,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -586,7 +586,7 @@
             "open_issues": 23,
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
-            "stars": 933,
+            "stars": 956,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -628,7 +628,7 @@
             "open_issues": 19,
             "owner": "snap-stanford",
             "repo": "med-flamingo",
-            "stars": 457,
+            "stars": 458,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1640,
+            "stars": 1642,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -733,7 +733,7 @@
             "open_issues": 6,
             "owner": "JZPeterPan",
             "repo": "MedVLM-R1",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -926,7 +926,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1640,
+            "stars": 1642,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T00:04:54.468Z",
+    "last_updated": "2026-10-24T23:47:58.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
