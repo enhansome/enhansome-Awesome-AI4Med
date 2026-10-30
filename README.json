@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1335,
+            "stars": 1334,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -233,7 +233,7 @@
             "open_issues": 16,
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2213,
+            "stars": 2215,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -475,7 +475,7 @@
             "open_issues": 12,
             "owner": "FreedomIntelligence",
             "repo": "ShizhenGPT",
-            "stars": 154,
+            "stars": 155,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1156,7 +1156,7 @@
                 "open_issues": 13,
                 "owner": "uni-medical",
                 "repo": "Project-Imaging-X",
-                "stars": 491,
+                "stars": 490,
                 "topics": [
                   "dermoscopy",
                   "endoscopy",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:17:30.007Z",
+    "last_updated": "2026-10-30T01:22:12.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
