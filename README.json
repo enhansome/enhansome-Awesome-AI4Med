@@ -296,7 +296,7 @@
             "open_issues": 14,
             "owner": "kbressem",
             "repo": "medAlpaca",
-            "stars": 567,
+            "stars": 568,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -317,7 +317,7 @@
             "open_issues": 14,
             "owner": "kbressem",
             "repo": "medAlpaca",
-            "stars": 567,
+            "stars": 568,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -454,7 +454,7 @@
             "open_issues": 25,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-Vision",
-            "stars": 404,
+            "stars": 405,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -586,7 +586,7 @@
             "open_issues": 23,
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
-            "stars": 1029,
+            "stars": 1030,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1156,7 +1156,7 @@
                 "open_issues": 13,
                 "owner": "uni-medical",
                 "repo": "Project-Imaging-X",
-                "stars": 490,
+                "stars": 491,
                 "topics": [
                   "dermoscopy",
                   "endoscopy",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:05:50.687Z",
+    "last_updated": "2026-11-01T00:28:18.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
