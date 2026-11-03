@@ -212,7 +212,7 @@
             "open_issues": 1,
             "owner": "BioMistral",
             "repo": "BioMistral",
-            "stars": 80,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -254,7 +254,7 @@
             "open_issues": 9,
             "owner": "baichuan-inc",
             "repo": "Baichuan-M2-32B",
-            "stars": 216,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -406,7 +406,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1643,
+            "stars": 1645,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -475,7 +475,7 @@
             "open_issues": 12,
             "owner": "FreedomIntelligence",
             "repo": "ShizhenGPT",
-            "stars": 155,
+            "stars": 156,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -586,7 +586,7 @@
             "open_issues": 23,
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
-            "stars": 1030,
+            "stars": 1031,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1643,
+            "stars": 1645,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -926,7 +926,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1643,
+            "stars": 1645,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:03:36.414Z",
+    "last_updated": "2026-11-03T03:05:50.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
