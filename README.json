@@ -233,7 +233,7 @@
             "open_issues": 16,
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2219,
+            "stars": 2220,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1156,7 +1156,7 @@
                 "open_issues": 13,
                 "owner": "uni-medical",
                 "repo": "Project-Imaging-X",
-                "stars": 492,
+                "stars": 493,
                 "topics": [
                   "dermoscopy",
                   "endoscopy",
@@ -1201,7 +1201,7 @@
             "open_issues": 18,
             "owner": "alibaba-damo-academy",
             "repo": "MedEvalKit",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "evaluation-framework",
               "llm",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:05:50.528Z",
+    "last_updated": "2026-11-04T01:42:57.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
