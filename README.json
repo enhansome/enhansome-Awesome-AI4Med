@@ -149,7 +149,7 @@
             "open_issues": 26,
             "owner": "chaoyi-wu",
             "repo": "PMC-LLaMA",
-            "stars": 680,
+            "stars": 681,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -275,7 +275,7 @@
             "open_issues": 11,
             "owner": "baichuan-inc",
             "repo": "Baichuan-M1-14B",
-            "stars": 218,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -296,7 +296,7 @@
             "open_issues": 14,
             "owner": "kbressem",
             "repo": "medAlpaca",
-            "stars": 569,
+            "stars": 568,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -317,7 +317,7 @@
             "open_issues": 14,
             "owner": "kbressem",
             "repo": "medAlpaca",
-            "stars": 569,
+            "stars": 568,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -607,7 +607,7 @@
             "open_issues": 13,
             "owner": "ZJU4HealthCare",
             "repo": "HealthGPT",
-            "stars": 1666,
+            "stars": 1668,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:15:04.318Z",
+    "last_updated": "2026-11-10T03:50:50.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
@@ -1270,7 +1270,7 @@
       "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2902,
+      "stars": 2903,
       "topics": [
         "awesome-lists",
         "collection",
