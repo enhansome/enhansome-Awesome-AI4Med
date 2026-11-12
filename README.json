@@ -233,7 +233,7 @@
             "open_issues": 16,
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2220,
+            "stars": 2221,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -607,7 +607,7 @@
             "open_issues": 13,
             "owner": "ZJU4HealthCare",
             "repo": "HealthGPT",
-            "stars": 1669,
+            "stars": 1670,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1078,7 +1078,7 @@
             "open_issues": 2,
             "owner": "alibaba-damo-academy",
             "repo": "ClinFusion",
-            "stars": 215,
+            "stars": 216,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1156,7 +1156,7 @@
                 "open_issues": 13,
                 "owner": "uni-medical",
                 "repo": "Project-Imaging-X",
-                "stars": 494,
+                "stars": 496,
                 "topics": [
                   "dermoscopy",
                   "endoscopy",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T01:29:35.218Z",
+    "last_updated": "2026-11-12T02:33:05.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
@@ -1270,7 +1270,7 @@
       "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2904,
+      "stars": 2905,
       "topics": [
         "awesome-lists",
         "collection",
