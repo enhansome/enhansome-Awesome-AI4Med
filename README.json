@@ -275,7 +275,7 @@
             "open_issues": 11,
             "owner": "baichuan-inc",
             "repo": "Baichuan-M1-14B",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -496,7 +496,7 @@
             "open_issues": 109,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2239,
+            "stars": 2240,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -517,7 +517,7 @@
             "open_issues": 109,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2239,
+            "stars": 2240,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -538,7 +538,7 @@
             "open_issues": 109,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2239,
+            "stars": 2240,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -586,7 +586,7 @@
             "open_issues": 23,
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
-            "stars": 1030,
+            "stars": 1031,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -607,7 +607,7 @@
             "open_issues": 13,
             "owner": "ZJU4HealthCare",
             "repo": "HealthGPT",
-            "stars": 1671,
+            "stars": 1672,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -978,7 +978,7 @@
             "open_issues": 1,
             "owner": "genmilab",
             "repo": "MedMO",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "grounding",
               "llm",
@@ -1015,7 +1015,7 @@
             "open_issues": 4,
             "owner": "DDVD233",
             "repo": "QoQ_Med",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1201,7 +1201,7 @@
             "open_issues": 17,
             "owner": "alibaba-damo-academy",
             "repo": "MedEvalKit",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "evaluation-framework",
               "llm",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T01:21:05.017Z",
+    "last_updated": "2026-11-16T01:26:07.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
