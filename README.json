@@ -233,7 +233,7 @@
             "open_issues": 16,
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2221,
+            "stars": 2220,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -406,7 +406,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1647,
+            "stars": 1649,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -649,7 +649,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1647,
+            "stars": 1649,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -926,7 +926,7 @@
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
-            "stars": 1647,
+            "stars": 1649,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -943,7 +943,7 @@
             "id": 1161177194,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-12T08:06:27Z",
+            "last_commit": "2026-11-18T09:19:37Z",
             "open_issues": 0,
             "owner": "mbzuai-oryx",
             "repo": "MediX-R1",
@@ -1107,7 +1107,7 @@
                 "open_issues": 4,
                 "owner": "FreedomIntelligence",
                 "repo": "Huatuo-26M",
-                "stars": 355,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:10:09.315Z",
+    "last_updated": "2026-11-19T02:50:52.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
@@ -1270,7 +1270,7 @@
       "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2907,
+      "stars": 2906,
       "topics": [
         "awesome-lists",
         "collection",
