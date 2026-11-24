@@ -86,7 +86,7 @@
             "open_issues": 27,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-o1",
-            "stars": 1366,
+            "stars": 1367,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -233,7 +233,7 @@
             "open_issues": 16,
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2219,
+            "stars": 2220,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -628,7 +628,7 @@
             "open_issues": 19,
             "owner": "snap-stanford",
             "repo": "med-flamingo",
-            "stars": 458,
+            "stars": 457,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -1156,7 +1156,7 @@
                 "open_issues": 13,
                 "owner": "uni-medical",
                 "repo": "Project-Imaging-X",
-                "stars": 498,
+                "stars": 500,
                 "topics": [
                   "dermoscopy",
                   "endoscopy",
@@ -1198,7 +1198,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-02-24T02:40:45Z",
-            "open_issues": 17,
+            "open_issues": 16,
             "owner": "alibaba-damo-academy",
             "repo": "MedEvalKit",
             "stars": 270,
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T02:00:20.012Z",
+    "last_updated": "2026-11-24T05:36:01.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
@@ -1270,7 +1270,7 @@
       "open_issues": 2,
       "owner": "FreedomIntelligence",
       "repo": "Awesome-AI4Med",
-      "stars": 2906,
+      "stars": 2908,
       "topics": [
         "awesome-lists",
         "collection",
