@@ -86,7 +86,7 @@
             "open_issues": 27,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-o1",
-            "stars": 1367,
+            "stars": 1368,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -128,7 +128,7 @@
             "open_issues": 23,
             "owner": "allenai",
             "repo": "s2orc",
-            "stars": 1095,
+            "stars": 1097,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -149,7 +149,7 @@
             "open_issues": 26,
             "owner": "chaoyi-wu",
             "repo": "PMC-LLaMA",
-            "stars": 680,
+            "stars": 681,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -212,7 +212,7 @@
             "open_issues": 1,
             "owner": "BioMistral",
             "repo": "BioMistral",
-            "stars": 81,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -233,7 +233,7 @@
             "open_issues": 16,
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2220,
+            "stars": 2221,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -402,7 +402,7 @@
             "id": 975789283,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-06-19T17:29:02Z",
+            "last_commit": "2026-11-25T02:01:14Z",
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
@@ -427,7 +427,7 @@
             "open_issues": 5,
             "owner": "MedAIBase",
             "repo": "AntAngelMed",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -475,7 +475,7 @@
             "open_issues": 12,
             "owner": "FreedomIntelligence",
             "repo": "ShizhenGPT",
-            "stars": 157,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -496,7 +496,7 @@
             "open_issues": 109,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2240,
+            "stars": 2242,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -517,7 +517,7 @@
             "open_issues": 109,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2240,
+            "stars": 2242,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -538,7 +538,7 @@
             "open_issues": 109,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2240,
+            "stars": 2242,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -586,7 +586,7 @@
             "open_issues": 23,
             "owner": "ZJUI-AI4H",
             "repo": "Hulu-Med",
-            "stars": 1031,
+            "stars": 1032,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -645,7 +645,7 @@
             "id": 975789283,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-06-19T17:29:02Z",
+            "last_commit": "2026-11-25T02:01:14Z",
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
@@ -691,7 +691,7 @@
             "open_issues": 26,
             "owner": "taokz",
             "repo": "BiomedGPT",
-            "stars": 713,
+            "stars": 714,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -712,7 +712,7 @@
             "open_issues": 26,
             "owner": "taokz",
             "repo": "BiomedGPT",
-            "stars": 713,
+            "stars": 714,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:18.129Z"
@@ -922,7 +922,7 @@
             "id": 975789283,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-06-19T17:29:02Z",
+            "last_commit": "2026-11-25T02:01:14Z",
             "open_issues": 22,
             "owner": "Google-Health",
             "repo": "medgemma",
@@ -947,7 +947,7 @@
             "open_issues": 0,
             "owner": "mbzuai-oryx",
             "repo": "MediX-R1",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "dapo",
               "grpo",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:36:01.846Z",
+    "last_updated": "2026-11-25T04:37:28.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥",
